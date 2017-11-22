@@ -1,0 +1,6 @@
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаба6\лаба6\bin\Debug\лаба6.exe.config
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаба6\лаба6\bin\Debug\лаба6.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаба6\лаба6\bin\Debug\лаба6.pdb
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаба6\лаба6\obj\Debug\лаба6.csprojResolveAssemblyReference.cache
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаба6\лаба6\obj\Debug\лаба6.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаба6\лаба6\obj\Debug\лаба6.pdb
